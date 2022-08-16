@@ -41,7 +41,7 @@ html {
     margin-top: 3vh;
 }
 
-.button-custom {
+.buttonCustom {
     border: none;
     background-color: white;
     border-radius: 50px;
@@ -54,10 +54,10 @@ html {
     cursor: pointer;
 }
 
-.button-custom:hover {
+.buttonCustom:hover {
     background-color: rgb(221, 221, 221);
 }
 
-.button-div {
+.buttonDiv {
     margin-bottom: 3vh;
 }
