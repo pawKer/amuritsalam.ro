@@ -4,6 +4,6 @@ services:
     image: nginx:latest
     restart: unless-stopped
     volumes:
-      - /public/:/usr/share/nginx/html:ro
+      - ./public/:/usr/share/nginx/html:ro
     ports:
       - "9670:80"
