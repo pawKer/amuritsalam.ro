@@ -23,6 +23,7 @@ html {
     background-color: rgba(0, 0, 0, 0.3);
     color: white;
     font-weight: bold;
+    font-family: 'Lora', serif;
     border: 3px solid #f1f1f1;
     border-radius: 50px;
     position: absolute;
@@ -36,6 +37,5 @@ html {
 }
 
 .title {
-    font-family: 'Lora', serif;
     font-size: 3rem;
 }
