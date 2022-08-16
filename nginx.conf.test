@@ -6,8 +6,11 @@ http {
 charset utf-8;
 source_charset utf-8;
 server {
-	root /usr/share/nginx/html;
+	root /usr/share/nginx/html/;
 	location / {
+	}
+
+	location /images/ {
 	}
 }
 
